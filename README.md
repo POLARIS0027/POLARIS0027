@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @POLARIS0027
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Python Django
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pola2272@gmail.com
 
